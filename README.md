@@ -1,2 +1,0 @@
-# persons
-Created with CodeSandbox
